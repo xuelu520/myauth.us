@@ -1,0 +1,1 @@
+$(function(){var e=new Inputs("#change-settings"),t=new ChangePassword("#change-settings",{passwordFields:["#newPassword","#newPasswordVerify"]})})
